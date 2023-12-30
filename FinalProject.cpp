@@ -1,9 +1,3 @@
-// CS101 - Final Project for course -  Section F - Batch 33
-// Contributors:
-// 2023073 - Ahmad Saeed Zaidi
-// 2023241 - Hassan Iqbal
-// 2023574 - Nishat Ahmad
-
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
